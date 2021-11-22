@@ -1,0 +1,72 @@
+.uppercase{
+    text-transform: uppercase;
+}
+.nav-control{
+   
+    background-color: rgb(196, 230, 201);
+   
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-weight: bold;
+}
+
+.markque{
+    
+    background-color: #40e0d0;
+    padding: 3px 0px;
+    font-size: 20px;
+}
+.slide{
+    width: 100%;
+ 
+    margin: 0 auto;
+}
+.ro-control{
+    margin-right: 0px;
+    margin-left: 0px;
+   
+}
+.carousel .item {
+    height: 500px;
+  }
+  .carousel img {
+ 
+    min-width: 100%;
+    height: 600px;
+  }
+.message {
+    padding: 3px;
+    background-color: rgb(177, 216, 221);
+}
+.massege-img{
+    display: block;
+    max-height: 560px;
+    width: 100%;
+}
+.massege-caption{
+    border: 1px solid rgb(105, 90, 63);
+    padding: 3px;
+}
+.massege-caption h3{
+    background-color: wheat;
+}
+
+.footer-section{
+    background-color: black;
+}
+.copyright{
+    background-color: blue;
+    min-height: 50px;
+    text-align: center;
+    color: wheat;
+}
+.copyright p{
+    padding-top: 12px;
+
+}
+.copyright p span a{
+    color: rgb(241, 57, 57);
+    text-decoration: none;
+    text-transform: uppercase;
+}
